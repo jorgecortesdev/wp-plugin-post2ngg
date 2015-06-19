@@ -1,5 +1,5 @@
 {
-    "name": "xorth/wp-plugins-post2ngg",
+    "name": "xorth/wp-plugin-post2ngg",
     "description": "Transform a wordpress post with several images into one ngg gallery.",
     "type": "wordpress-plugin",
     "license": "proprietary",
