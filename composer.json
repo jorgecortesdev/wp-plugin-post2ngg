@@ -1,0 +1,14 @@
+{
+    "name": "xorth/wp-plugins-post2ngg",
+    "description": "Transform a wordpress post with several images into one ngg gallery.",
+    "keywords": ["xorth", "ngg", "wordpress"],
+    "authors": [
+        {
+            "name": "Jorge Cortés",
+            "email": "jorge.cortes@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
