@@ -1,17 +1,19 @@
 {
-    "name": "xorth/wp-plugins-post2ngg",
-    "description": "Transform a wordpress post with several images into one ngg gallery.",
-    "keywords": ["xorth", "ngg", "wordpress"],
-    "authors": [
-        {
-            "name": "Jorge Cortés",
-            "email": "jorge.cortes@gmail.com"
-        }
-    ],
-    "type": "wordpress-plugin",
-    "source": {
-        "type": "git",
-        "url": "https://xorth@bitbucket.org/xorth/wp-plugin-post2ngg.git"
+    "type": "package",
+    "package": {
+        "name": "xorth/wp-plugins-post2ngg",
+        "description": "Transform a wordpress post with several images into one ngg gallery.",
+        "type": "wordpress-plugin",
+        "source": {
+            "type": "vcs",
+            "url": "https://xorth@bitbucket.org/xorth/wp-plugin-post2ngg.git"
+        },
+        "authors": [
+            {
+                "name": "Jorge Cortés",
+                "email": "jorge.cortes@gmail.com"
+            }
+        ]
     },
     "require": {
         "php": ">=5.4"
