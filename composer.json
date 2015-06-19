@@ -4,7 +4,8 @@
     "type": "wordpress-plugin",
     "source": {
         "type": "vcs",
-        "url": "https://xorth@bitbucket.org/xorth/wp-plugin-post2ngg.git"
+        "url": "https://xorth@bitbucket.org/xorth/wp-plugin-post2ngg.git",
+        "reference": "master"
     },
     "authors": [
         {
