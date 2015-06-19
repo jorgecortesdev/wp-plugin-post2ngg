@@ -10,8 +10,8 @@
     ],
     "type": "wordpress-plugin",
     "source": {
-        "url": "https://xorth@bitbucket.org/xorth/wp-plugin-post2ngg.git",
         "type": "git"
+        "url": "https://xorth@bitbucket.org/xorth/wp-plugin-post2ngg.git",
     },
     "require": {
         "php": ">=5.4"
